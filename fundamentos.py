@@ -8,4 +8,4 @@
 # 2 
 # from tipos import variaveis , basicos
 
-from tipos import basicos
+import tipos.lista
