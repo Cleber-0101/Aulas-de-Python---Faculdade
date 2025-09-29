@@ -8,4 +8,6 @@
 # 2 
 # from tipos import variaveis , basicos
 
-import tipos.lista
+# import tipos.lista
+
+from tipos import tuplas
